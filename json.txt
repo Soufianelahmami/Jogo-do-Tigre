@@ -41,13 +41,18 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"O aplicativo Fortune Tiger é um simulador do famoso jogo de caça-níqueis Tiger Mobile. Nele, os jogadores podem experimentar a emoção do slot do tigre da fortuna sem apostar dinheiro real.O tema do jogo Fortune Tiger enfatiza a força, a nobreza e a boa sorte associadas ao tigre na cultura asiática.",
+   "photo1":"https://iili.io/J9a1m1s.webp"},
+  {"desc2":"a força, a nobreza e a boa sorte associadas ao tigre na cultura asiática. Os jogadores são encorajados a girar os rolos slot Pin Up e desvendar os mistérios da fortuna enquanto procuram combinações vencedoras e recursos de bônus empolgantes. Prepare-se para embarcar em uma jornada cheia de aventuras e oportunidades para ganhar grande ganho tigre, ",
+"photo2":"https://iili.io/J9a1tLX.webp"},
+  {"desc3":"enquanto desfruta da atmosfera rica e encantadora do mundo oriental dos jogos de dinheiro.No aplicativo Fortune Tiger, os jogadores podem experimentar a emoção de um cassino sem o risco de perder dinheiro real. ",
+"photo3":"https://iili.io/J9a1bBn.webp"},
+  {"desc4":"uma oportunidade de mergulhar na atmosfera única dos caça-níqueis inspirados na cultura asiática e desfrutar de horas de entretenimento.Os símbolos do jogo, como tigres coloridos, Ás, Rei, Rainha, Valete e o número 10,",
+"photo4":"https://iili.io/J9a1prG.jpg"},
+  {"desc5":"",
+"photo5":"https://iili.io/J9aE92f.jpg"},
+  {"descd":"refletem a atmosfera oriental e mística do jogo. Os jogadores podem desfrutar da emoção de girar os rolos Pin-Up e torcer por combinações vencedoras, tudo isso sem precisar apostar dinheiro real.",
+"photod":"https://iili.io/J9a1bBn.webp"}
    ]
  
 }
